@@ -1,3 +1,3 @@
 # NLP
 - LOR chunk
--TextBlob
+- TextBlob
