@@ -1,3 +1,16 @@
 # NLP
-- LOR chunk
-- TextBlob
+- lor1 chunking.ipynb
+-Chunking for letter of recommendation 1 gives output tree as chunk tree2.JPG
+- lor2 chunking.ipynb
+-Chunking for letter of recommendation 2 gives output tree as chunk tree3.JPG
+- 
+- TextBlob(1).ipynb 
+-Implementation of an NLP tool called TextBlob. It also contains sentimental analysis.
+- embedding,term frequency.ipynb
+-It contains conversion of text into vector format
+- marathi_rl.ipynb
+-It has iNLTK implementation for 'Marathi' language.
+- names,gender,cosine-similarity.ipynb, tokenization,stemming,POS(1).ipynb
+-These are the tasks from mini project1
+- web_scrap and named entity recognition 
+-It has web scrapping from a website and its chunking
